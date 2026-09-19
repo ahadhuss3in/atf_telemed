@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "doc-ayesha",
+      "username": "ayesha",
+      "role": "doctor",
+      "name": "Dr. Ayesha Khan",
+      "specialty": "Dermatology"
+    },
+    {
+      "id": "doc-rohan",
+      "username": "rohan",
+      "role": "doctor",
+      "name": "Dr. Rohan Mehta",
+      "specialty": "Cardiology"
+    },
+    {
+      "id": "doc-sara",
+      "username": "sara",
+      "role": "doctor",
+      "name": "Dr. Sara Ali",
+      "specialty": "Pediatrics"
+    },
+    {
+      "id": "doc-imran",
+      "username": "imran",
+      "role": "doctor",
+      "name": "Dr. Imran Qureshi",
+      "specialty": "General Medicine"
+    },
+    {
+      "id": "doc-nadia",
+      "username": "nadia",
+      "role": "doctor",
+      "name": "Dr. Nadia Sheikh",
+      "specialty": "Psychiatry"
+    },
+    {
+      "id": "pat-hamza",
+      "username": "hamza",
+      "role": "patient",
+      "name": "Hamza Raza"
+    },
+    {
+      "id": "pat-zara",
+      "username": "zara",
+      "role": "patient",
+      "name": "Zara Iqbal"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+.venv
+__pycache__
+*.pyc
+.git
+.kilo
+README.md
+web/node_modules
+web/.next
+web/.env.local

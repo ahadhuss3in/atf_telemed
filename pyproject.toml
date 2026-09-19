@@ -1,0 +1,10 @@
+[project]
+name = "atf"
+version = "0.1.0"
+description = "Telemedicine prototype: peer-to-peer doctor/patient video consults"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+]
